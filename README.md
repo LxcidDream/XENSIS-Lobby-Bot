@@ -2,7 +2,7 @@
 
 An expansive Fortnite lobby bot with a handful of features.
 
-> Discord server: <a href="https://discord.gg/88r2ShB" target="_blank">Xensis Bots</a>
+> YouTube channel: <a href="https://www.youtube.com/channel/UCH8jhzQPRTZyDrvGPtB4uaw" target="_blank">Dream</a>
 
 ## Getting Started
 
