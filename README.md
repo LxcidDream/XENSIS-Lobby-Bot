@@ -39,7 +39,7 @@ Step 4.
 
 Step 5.
 
-> Open "config.json" and fill out the bot's information. (<a href="https://github.com/KaosDrip/Xensis/wiki/Config-Guide" target="_blank">Guide</a>)
+> Open "config.json" and fill out the bot's information. (<a href="https://github.com/LxcidDream/XENSIS-Lobby-Bot/wiki/Config-Guide" target="_blank">Guide</a>)
 
 Step 6.
 
